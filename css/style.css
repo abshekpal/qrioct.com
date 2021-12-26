@@ -456,9 +456,7 @@ header .toggle {
     /* background: -webkit-linear-gradient(to right, #fbca41, #f8ad0a);
     background: linear-gradient(to bottom, #fbca41, #f8ad0a); */
     position: relative;
-
 }
-
 
 #works .content {
     width: 100%;
@@ -1139,7 +1137,7 @@ h5 {
         justify-content: center;
     }
 
-    #services .container span {
+    #services .container h1 {
         font-size: 30px;
     }
     #services .container .box1 {
