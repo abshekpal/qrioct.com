@@ -88,7 +88,7 @@ header .toggle {
     align-items: center;
     padding: 60px 100px;
     height: 100vh;
-    width: 100vw;          
+    width: 100vw;
 
 }
 
@@ -432,9 +432,9 @@ header .toggle {
 }
 
 #services .container
- .box1 .right, 
- .box2 .left, 
- .box3 .right, 
+ .box1 .right,
+ .box2 .left,
+ .box3 .right,
  .box4 .left {
     padding:50px;
 }
@@ -520,7 +520,7 @@ header .toggle {
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows:repeat(4, 12rem);
     gap:.5rem;
-    
+
 }
 .galleryimage {
     width:100%;
@@ -964,7 +964,7 @@ h5 {
     #services .content .bottomline {
         margin-bottom: 20px;
     }
-    
+
     #services .container {
         display: flex;
         justify-content: space-evenly;
@@ -977,9 +977,9 @@ h5 {
     }
 
     #services .container
-    .box1 .right, 
-    .box2 .left, 
-    .box3 .right, 
+    .box1 .right,
+    .box2 .left,
+    .box3 .right,
     .box4 .left {
         padding:20px;
     }
@@ -996,7 +996,7 @@ h5 {
     #works .container {
         padding:40px 0px;
     }
-    
+
     #works .content p {
         width: 90%;
     }
@@ -1079,8 +1079,11 @@ h5 {
     #home{
         padding:100px 20px 80px;
         height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
     }
-   
+
     #services{
         padding:60px 20px 0px;
     }
@@ -1135,7 +1138,7 @@ h5 {
         display: flex;
         justify-content: center;
     }
-    
+
     #services .container span {
         font-size: 30px;
     }
@@ -1164,12 +1167,12 @@ h5 {
     }
 
     #services .container
-    .box1 .right, 
-    .box2 .left, 
-    .box3 .right, 
+    .box1 .right,
+    .box2 .left,
+    .box3 .right,
     .box4 .left {
         padding:0px 0px 40px 0px;
-    } 
+    }
 
     #works {
         padding:60px 20px 140px;
@@ -1199,7 +1202,7 @@ h5 {
         display: flex;
         align-items: center;
     }
-    
+
     #contact .left .sec1 h1 {
         font-size:30px;
     }
